@@ -22,7 +22,6 @@ git clone https://github.com/ArthurHydr/DotFiles.git
 * Install fonts:
 ```
 cp -r fonts ~/.local/share/
-cp -r fonts2 /usr/share/fonts
 fc-cache -f -v
 ```
 
