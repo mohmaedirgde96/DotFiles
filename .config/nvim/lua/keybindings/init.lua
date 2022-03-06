@@ -7,3 +7,6 @@ map('n', '<C-l>', '<C-w>l', {noremap = true, silent = false})
 
 map('n', '<space>e', ':NvimTreeToggle<CR>', {noremap = true, silent = false})
 map('n', '<space>f', ':Telescope find_files<cr>', {noremap = true, silent = false})
+
+map('v', '<M-k>', ":m '<-2<CR>gv=gv", {noremap = true, silent = false})
+map('v', '<M-j>', ":m '>+1<CR>gv=gv", {noremap = true, silent = false})
