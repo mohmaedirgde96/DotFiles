@@ -1,5 +1,4 @@
 # Arthur Ottoni's DotFiles -> Gentoo + i3-gaps
-<img src="Now you gonna judge me for not taking the print, bitch?">
 
 ## Installation
 * Packages:
@@ -14,7 +13,7 @@
 Root_commands: Doas
 ```
 
-* Install Dotfiles: { No bitch, I won't make an auto installer :) }
+* Install Dotfiles: { No... I won't make an auto installer :) }
 ```sh
 git clone https://github.com/ArthurHydr/DotFiles.git
 ```
