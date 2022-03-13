@@ -23,9 +23,3 @@ git clone https://github.com/ArthurHydr/DotFiles.git
 cp -r fonts ~/.local/share/
 fc-cache -f -v
 ```
-
-* Global USE flags:
-```
-X elogind pulseaudio alsa ncat xinerama npm luajit dbus doc
-```
-
